@@ -1,0 +1,1 @@
+start cmd /K python.exe weather.py
